@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+header{
+    background-color: green;
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    height: 50px;
+    align-items: center;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
